@@ -1,0 +1,12 @@
+java bg.uni.sofia.fmi.p2p.server.Server
+java bg.uni.sofia.fmi.p2p.client.ClientMain
+
+register user "D:\Installations\xubuntu-16.04.3-desktop-amd64.iso"
+register user file1.txt
+
+register user2 file2.txt
+register user3 fle2.txt
+
+download user "D:\Installations\xubuntu-16.04.3-desktop-amd64.iso" testtt.iso
+
+download user "D:\Downloads\eclipse-java-oxygen-1a-win32-x86_64\workspace\Final Project - P2P File Server\bin\file1.txt" testtt.txt

@@ -1,0 +1,1 @@
+{real1} text1 {real2} text2 {real3} text3
